@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sivadatla/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sivadatla/static/js/main.f4d85963.chunk.js",
+    "main.js.map": "/sivadatla/static/js/main.f4d85963.chunk.js.map",
+    "runtime~main.js": "/sivadatla/static/js/runtime~main.c44c9882.js",
+    "runtime~main.js.map": "/sivadatla/static/js/runtime~main.c44c9882.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sivadatla/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sivadatla/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sivadatla/index.html",
+    "precache-manifest.0ab23ecf54a92fe39ff35e4330e26396.js": "/sivadatla/precache-manifest.0ab23ecf54a92fe39ff35e4330e26396.js",
+    "service-worker.js": "/sivadatla/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sivadatla/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sivadatla/static/media/logo.5d5d9eef.svg"
+  }
+}
