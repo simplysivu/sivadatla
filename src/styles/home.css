@@ -1,0 +1,19 @@
+.Home {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  width: 100%;
+}
+
+.Header {
+  font-weight: bold;
+  font-size: 28px;
+  color: black;
+}
+
+.Para {
+    position: relative;
+    font-size: 15px;
+    color: grey;
+}
